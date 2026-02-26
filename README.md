@@ -14,8 +14,6 @@ CBLAS — это C-интерфейс для библиотеки BLAS, кото
 
 ## Запуск тестов
 
-### Перед сборкой проекта мажно скопировав репозиторй OpenBLAS собрать через make
-
 ```bash
 /mnt/c/Users/alt_ma1n$ make 
 /mnt/c/Users/alt_ma1n$ python cblas_test.py
